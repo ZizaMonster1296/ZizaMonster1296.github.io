@@ -21,8 +21,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+
+http://www.jornalagora.info/bars-and-melody-instagram-cm74.asp```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
