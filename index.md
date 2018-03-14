@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages For Bananas
-###TACOS
+### TACOS
 
 You can use the awesome person at(https://github.com/ZizaMonster1296/ZizaMonster1296.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -9,9 +9,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Bananas rule the world everyday
 Syntax highlighted code block
-#rainbows
-##sparkils
-###cupcakes
+# rainbows
+## sparkils
+### cupcakes
 
 - star bulleted
 - list
