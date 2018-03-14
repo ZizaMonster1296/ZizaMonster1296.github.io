@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### ENCHILADAS
 
 Bananas rule the world everyday
-Syntax highlighted code block
+because they are awesome
 # rainbows
 ## sparkils
 ### cupcakes
