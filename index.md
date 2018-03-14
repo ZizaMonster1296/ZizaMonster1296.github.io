@@ -3,8 +3,7 @@
 
 You can use the awesome person at (https://github.com/ZizaMonster1296/ZizaMonster1296.github.io/edit/master/index.md) 
 ### Buritos Are Awesome
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Whenever you logon to this site there will allways be something new for you to see
 ### ENCHILADAS
 
 Bananas rule the world everyday
