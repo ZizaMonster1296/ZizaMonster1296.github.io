@@ -2,26 +2,13 @@
 ### TACOS
 
 You can use the awesome person at (https://github.com/ZizaMonster1296/ZizaMonster1296.github.io/edit/master/index.md) 
-### 
+
 Whenever you logon to this site there will allways be something new for you to see
-### 
-
-Bananas rule the world everyday
-because they are awesome
-# rainbows
-## sparkils
-### cupcakes
-
-- star bulleted
-- list
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 
-http://www.jornalagora.info/bars-and-melody-instagram-cm74.asp```
+
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
