@@ -5,7 +5,7 @@ You can use the awesome person at (https://github.com/ZizaMonster1296/ZizaMonste
 Whenever you logon to this site there will allways be something new for you to see
 
 ### Bars and Melody
-<img src="images/images/cool.png" alt="hi" class="inline"/>
+<img src="27879840_156810825116304_4833839718594510848_n.jpg" alt="hi" class="inline"/>
 
 
 
