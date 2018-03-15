@@ -6,11 +6,11 @@ Whenever you logon to this site there will allways be something new for you to s
 
 ### Bars and Melody
 <img src="27879840_156810825116304_4833839718594510848_n.jpg" alt="hi" class="inline"/>
-Bars and Melody are a British pop/rap duo who first apeared on Britians Got Talent
+Bars and Melody are a British pop/rap duo who first apeared on Britians Got Talent. Leondre Devries is known as "Bars"
 
 
 
-<img src="27879840_156810825116304_4833839718594510848_n.jpg" alt="hi" class="inline"/>
+
 
 
 
