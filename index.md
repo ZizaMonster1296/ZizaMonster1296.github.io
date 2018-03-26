@@ -11,7 +11,7 @@ Bars and Melody are a British pop/rap duo who first apeared on Britians Got Tale
 
 <img src="/images.jpeg" alt="hi" class="inline"/>
 
-
+Marcus&Martinus are a Norwegan pop duo of identical twin brothers
 
 
 
