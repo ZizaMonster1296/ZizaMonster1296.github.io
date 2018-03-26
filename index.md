@@ -9,7 +9,7 @@ Whenever you logon to this site there will allways be something new for you to s
 Bars and Melody are a British pop/rap duo who first apeared on Britians Got Talent. Leondre Devries is known as "Bars". Charlie Lenehan is known as "Melody"
 
 
-<img src="images/Emoticons/cool.png" alt="hi" class="inline"/>
+<img src="images.jpeg.png" alt="hi" class="inline"/>
 
 
 
