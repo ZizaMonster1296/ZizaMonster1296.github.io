@@ -19,6 +19,14 @@ Marcus&Martinus are a Norwegan pop duo of identical twin brothers
 
 The Vamps are a British pop band that are curently touring the world
 
+
+<img src="/f99cfb8b80456902e3f9385d3a948e4c.jpg" alt="hi" class="inline"/>
+
+5 seconds of Summer are a Austrailian punk/rock band who just relised there 3rd album
+
+
+
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZizaMonster1296/ZizaMonster1296.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
