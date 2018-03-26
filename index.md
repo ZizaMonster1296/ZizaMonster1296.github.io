@@ -17,6 +17,7 @@ Marcus&Martinus are a Norwegan pop duo of identical twin brothers
 
 <img src="/download.jpeg" alt="hi" class="inline"/>
 
+The Vamps are a British pop band that are curently touring the world
 
 ### Jekyll Themes
 
