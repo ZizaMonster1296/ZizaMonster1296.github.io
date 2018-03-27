@@ -25,7 +25,7 @@ The Vamps are a British pop band that are curently touring the world
 5 seconds of Summer are a Austrailian punk/rock band who just relised there 3rd album
 
 
-<img src="/" alt="hi" class="inline"/>
+<img src="/The-Used-main.jpg" alt="hi" class="inline"/>
 
 
 
