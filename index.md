@@ -32,7 +32,7 @@ The Vamps are a British pop band that are curently touring the world
 
 [<img src="/fallinginreverse-1330549922.jpg" alt="hi" class="inline"/>](FallingInReverse.md)
 
-[<img src="/Article-9927129-1375263547_piercetheveil_normal.jpg" alt="hi" class="inline"/>](PierceTheVeil.md
+[<img src="/Article-9927129-1375263547_piercetheveil_normal.jpg" alt="hi" class="inline"/>](PierceTheVeil.md)
 
 
 
