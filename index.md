@@ -27,7 +27,7 @@ The Vamps are a British pop band that are curently touring the world
 
 <img src="/The-Used-main.jpg" alt="hi" class="inline"/>
 
-
+<img src="/Breaking-Benjamin.jpg" "hi" class="inline"/>
 
 ### Jekyll Themes
 
