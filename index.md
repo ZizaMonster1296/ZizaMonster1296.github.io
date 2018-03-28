@@ -31,6 +31,11 @@ The Vamps are a British pop band that are curently touring the world
 [<img src="/Breaking-Benjamin.jpg" alt="hi" class="inline"/>](BreakingBenjamin.md)
 
 [<img src="/fallinginreverse-1330549922.jpg" alt="hi" class="inline"/>](FallingInReverse.md)
+
+[<img src="/Article-9927129-1375263547_piercetheveil_normal.jpg" alt="hi" class="inline"/>](PierceTheVeil.md
+
+
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZizaMonster1296/ZizaMonster1296.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
