@@ -10,25 +10,25 @@ Whenever you logon to this site there will allways be something new for you to s
 Bars and Melody are a British pop/rap duo who first apeared on Britians Got Talent. Leondre Devries is known as "Bars". Charlie Lenehan is known as "Melody"
 
 
-<img src="/images.jpeg" alt="hi" class="inline"/>
+[<img src="/images.jpeg" alt="hi" class="inline"/>](MarcusAndMartinus.md)
 
 Marcus&Martinus are a Norwegan pop duo of identical twin brothers
 
 
 
-<img src="/download.jpeg" alt="hi" class="inline"/>
+[<img src="/download.jpeg" alt="hi" class="inline"/>](TheVamps.md)
 
 The Vamps are a British pop band that are curently touring the world
 
 
-<img src="/f99cfb8b80456902e3f9385d3a948e4c.jpg" alt="hi" class="inline"/>
+[<img src="/f99cfb8b80456902e3f9385d3a948e4c.jpg" alt="hi" class="inline"/>](5SecondsofSummer.md)
 
 5 seconds of Summer are a Austrailian punk/rock band who just relised there 3rd album
 
 
-<img src="/The-Used-main.jpg" alt="hi" class="inline"/>
+[<img src="/The-Used-main.jpg" alt="hi" class="inline"/>](TheUsed.md)
 
-<img src="/Breaking-Benjamin.jpg" alt="hi" class="inline"/>
+[<img src="/Breaking-Benjamin.jpg" alt="hi" class="inline"/>](BreakingBenjamin.md)
 
 ### Jekyll Themes
 
