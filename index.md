@@ -15,8 +15,6 @@ Whenever you logon to this site there will allways be something new for you to s
 
 [<img src="/f99cfb8b80456902e3f9385d3a948e4c.jpg" alt="hi" class="inline"/>](5SecondsofSummer.md)
 
-5 seconds of Summer are a Austrailian punk/rock band who just relised there 3rd album
-
 [<img src="/The-Used-main.jpg" alt="hi" class="inline"/>](TheUsed.md)
 
 [<img src="/Breaking-Benjamin.jpg" alt="hi" class="inline"/>](BreakingBenjamin.md)
