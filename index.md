@@ -9,7 +9,7 @@ Whenever you logon to this site there will allways be something new for you to s
 
 
 
-[<img src="/images.jpeg" alt="hi" class="inline"/>](MarcusAndMartinus.md)
+[<img src="/2944463_ee92e.jpg" alt="hi" class="inline"/>](MarcusAndMartinus.md)
 
 [<img src="/download.jpeg" alt="hi" class="inline"/>](TheVamps.md)
 
