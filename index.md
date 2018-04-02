@@ -1,6 +1,6 @@
 ### Welcome to my site where you can find any information on any of your favorite bands
 
-You can use the awesome person at (https://github.com/ZizaMonster1296/ZizaMonster1296.github.io/edit/master/index.md) 
+You can visit the awesome person at (https://github.com/ZizaMonster1296/ZizaMonster1296.github.io/) 
 
 Whenever you logon to this site there will allways be something new for you to see
 
