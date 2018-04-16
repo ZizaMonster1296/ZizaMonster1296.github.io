@@ -29,4 +29,4 @@ Whenever you logon to this site there will allways be something new for you to s
 
 [<img src="3b5a87ac96ffe2b80f7a0781d6a486c5_lg.jpg" class="inline"/>](SPM.md)
 
-[<img src="" class="inline"/>](PostMalone.md)
+[<img src="post-malone-ottawa.jpg" class="inline"/>](PostMalone.md)
