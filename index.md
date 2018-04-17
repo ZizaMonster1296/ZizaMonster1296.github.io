@@ -32,3 +32,5 @@ Whenever you logon to this site there will allways be something new for you to s
 [<img src="post-malone-ottawa.jpg" class="inline"/>](PostMalone.md)
 
 [<img src="RUSS.jpg" class="inline"/>](RUSS.md)
+
+[<img src="" class="inline"/>](TheAllAmericanRejects.md)
