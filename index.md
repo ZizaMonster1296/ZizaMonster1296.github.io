@@ -38,3 +38,5 @@ Whenever you logon to this site there will allways be something new for you to s
 [<img src="/my-chemical-romance_0.jpg" class="inline"/>](MyChemicalRomance.md)
 
 [<img src="768x432_docks_sleepingwithsirens.jpg" class="inline"/>](SleepingWithSirens.md)
+
+[<img src="images (3).jpeg" class="inline">](RascalFlatts.md)
