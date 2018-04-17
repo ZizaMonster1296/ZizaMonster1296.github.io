@@ -36,3 +36,5 @@ Whenever you logon to this site there will allways be something new for you to s
 [<img src="windowslivewritertheallamericanrejectscoverofbritneyswoma-ea8eall-american-rejects-thumb.jpg" class="inline"/>](TheAllAmericanRejects.md)
 
 [<img src="/my-chemical-romance_0.jpg" class="inline"/>](MyChemicalRomance.md)
+
+[<img src="/768x432_docks_sleepingwithsirens.jpg:" class="inline"/>](SleepingWithSirens.md)
