@@ -7,14 +7,9 @@ Bars and Melody (B.A.M.) are a British pop duo consisting of rapper Leondre "Bar
 
 <img src="images (1).jpeg" alt="hi" class="inline"/>
 
-
-[<img src="51roZc4QW9L._SY355_.jpg" alt="hi" class="inline"/>](BarsAndMelody.md)
-
-
-
 They have appeared in the United Kingdom, the United States, Japan, mainland Europe, and Australia. 
 
 
-
+[<img src="51roZc4QW9L._SY355_.jpg" alt="hi" class="inline"/>](BarsAndMelody.md)
 
  
