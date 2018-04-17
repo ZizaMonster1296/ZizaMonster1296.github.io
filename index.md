@@ -34,3 +34,5 @@ Whenever you logon to this site there will allways be something new for you to s
 [<img src="RUSS.jpg" class="inline"/>](RUSS.md)
 
 [<img src="windowslivewritertheallamericanrejectscoverofbritneyswoma-ea8eall-american-rejects-thumb.jpg" class="inline"/>](TheAllAmericanRejects.md)
+
+[<img src="/my-chemical-romance_0.jpg" class="inline"/>(MyChemicalRomance.md)
