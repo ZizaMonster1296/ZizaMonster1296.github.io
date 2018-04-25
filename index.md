@@ -46,3 +46,5 @@ Whenever you logon to this site there will allways be something new for you to s
 [<img src="images (4).jpeg" class="inline">](CherLloyd.md)
 ### Lorde
 [<img src="200x200-000000-80-0-0.jpg" class="inline">](Lorde.md)
+### AKON
+[<img src="download (2).jpeg" class="inline">](Akon.md)
