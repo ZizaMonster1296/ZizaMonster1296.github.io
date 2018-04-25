@@ -44,3 +44,5 @@ Whenever you logon to this site there will allways be something new for you to s
 [<img src="B97169346Z.120130411165450000GFK2N3TU.11.jpg" class="inline">](TheBandPerry.md)
 
 [<img src="images (4).jpeg" class="inline">](CherLloyd.md)
+
+[<img src="" class="inline">](Lorde.md)
