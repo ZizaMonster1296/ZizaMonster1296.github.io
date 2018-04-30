@@ -20,4 +20,4 @@ The photo below is one of their first albums when they first went big.
 
 Leondre Devries met Charlie Lenehan on Facebook.
 
-[<img src="" alt="hi" class="inline"/>](BarsAndMelody.md)
+[<img src="c9475646e29b3404c133197d590cb0e3--bars-and-melody-leondre-leondre-devries.jpg" alt="hi" class="inline"/>](BarsAndMelody.md)
