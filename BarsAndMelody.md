@@ -25,4 +25,9 @@ This is Leondre.
 
 
 [<img src="c9475646e29b3404c133197d590cb0e3--bars-and-melody-leondre-leondre-devries.jpg" alt="hi" class="inline"/>](BarsAndMelody.md)
-[<img src="" alt="hi" class="inline"/>](BarsAndMelody.md)
+
+
+This is Charlie.
+
+
+[<img src="c9475646e29b3404c133197d590cb0e3--bars-and-melody-leondre-leondre-devries.jpg" alt="hi" class="inline"/>](BarsAndMelody.md)
