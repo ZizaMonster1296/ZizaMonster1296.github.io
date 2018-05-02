@@ -1,2 +1,2 @@
 ### Cher Lloyd
-[<img src="" alt="hi" class="inline">/](CherLloyd.md)
+[<img src="cher-lloyd-album-launch.jpg" alt="hi" class="inline">/](CherLloyd.md)
