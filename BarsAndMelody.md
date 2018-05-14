@@ -31,4 +31,6 @@ This is Charlie.
 
 [<img src="700436d3af2da91876079d1b81246c36.jpg" alt="hi" class="inline">](BarsAndMelody)
 
-[<img src="charlie-lenehan-2.jpg" alt="hi" class="inlinne">](BarsAndMelody.md)
+[<img src="charlie-lenehan-2.jpg" alt="hi" class="inline">](BarsAndMelody.md)
+
+[<img src="bars-and-melody-1497219841.jpg" class="inline">](BarsAndMelody.md)
