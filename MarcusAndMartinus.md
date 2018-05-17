@@ -11,4 +11,4 @@
 ### Martinus Gunnarsen
 [<img src="ac3c5ed92a158c5f392c02ecdadc8a4d4a0cf1d2_hq.jpg" alt="hi" class="inline">/](MarcusAndMartinus.md)
 
-[<img src="/123574891-352-k149670.jpg" alt="hi class="inline">/](MarcusAndMartinus.md)
+[<img src="123574891-352-k149670.jpg" alt="hi class="inline">/](MarcusAndMartinus.md)
