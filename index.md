@@ -68,5 +68,5 @@ Whenever you logon to this site there will allways be something new for you to s
 [<img src="arts_ATL.jpg" class="inline">/](AllTimeLow.md)
 ### Bring Me The Horizon
 [<img src="117673.jpg" class="inline">/](BringMeTheHorizon.md)
- ### 1Direction
- [<img src="one-direction-0v.jpg" class="inline">/](1Direction.md)
+### 1Direction
+[<img src="one-direction-0v.jpg" class="inline">](1Direction.md)
